@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.LojasRede22300570" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">#BF0426</item>
+        <item name="colorPrimaryDark">#BF0426</item>
+        <item name="colorAccent">#BF0426</item>
+    </style>
+
+    <style name="Theme.LojasRede22300570" parent="Base.Theme.LojasRede22300570" />
+
+
+</resources>
